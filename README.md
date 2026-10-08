@@ -10,8 +10,6 @@
 
 <br>
 
-*▶️ Clique na imagem acima para assistir à apresentação completa no YouTube*
-
 > Trabalho acadêmico desenvolvido para o curso de Cibersegurança — Mulher Digital (Junior Achievement Brasil).
 >
 > **Apresentação:** Vanessa Carvalho de Oliveira
